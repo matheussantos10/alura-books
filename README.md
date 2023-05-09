@@ -19,5 +19,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🖱 Página publicada
 
--   https://matheussantos10.github.io/alura-books/
 -   https://alura-books-psi-nine.vercel.app/
