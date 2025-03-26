@@ -14,7 +14,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 -   ReactJS
 -   Styled Components
--   Git e Github
 -   Vercel
 
 ## 🖱 Página publicada
